@@ -59,11 +59,13 @@ h3 {
 }
 p {
   font-size: small;
+  line-height: 1.8;
 }
 
 li {
   font-size: small;
   margin: 10px 0;
+  line-height: 1.8;
 }
 
 li::marker {
