@@ -1,0 +1,97 @@
+:root {
+  --White: hsl(0, 0%, 100%);
+
+  --Stone-100: hsl(30, 54%, 90%);
+  --Stone-150: hsl(30, 18%, 87%);
+  --Stone-600: hsl(30, 10%, 34%);
+  --Stone-900: hsl(24, 5%, 18%);
+
+  --Brown-800: hsl(14, 45%, 36%);
+
+  --Rose-800: hsl(332, 51%, 32%);
+  --Rose-50: hsl(330, 100%, 98%);
+}
+
+body {
+  width: 100vw;
+  /* height: 100vh; */
+  margin: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--Rose-50);
+  font-family: "Outfit", sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  width: 50%;
+  margin: 100px;
+  padding: 30px;
+  border-radius: 30px;
+  gap: 20px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 15px;
+}
+
+h1 {
+  font-family: "Young Serif", serif;
+  margin: 10px;
+}
+
+.prep {
+  background-color: var(--Rose-50);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+h3 {
+  color: var(--Rose-800);
+}
+p {
+  font-size: small;
+}
+
+li {
+  font-size: small;
+  margin: 10px 0;
+}
+
+li::marker {
+    color: var(--Rose-800);
+    font-weight: bold;
+}
+
+h2 {
+  color: var(--Brown-800);
+  font-family: "Young Serif", serif;
+  margin: 0;
+}
+
+hr {
+  border: none;
+  background-color: rgb(190, 190, 190);
+  height: 1px;
+  width: 100%;
+  margin: 0;
+}
+
+.nutrient {
+    display: flex;
+    justify-content: space-between;
+}
+
+.calories {
+    margin-right: 40%;
+    font-weight: bold;
+    color: var(--Brown-800);
+}
