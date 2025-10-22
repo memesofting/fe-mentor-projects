@@ -15,12 +15,13 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![./assets/images/screenshot2.jpeg](./screenshot.jpg)
+![./assets/images/screenshot2.jpeg]
+<!-- (./screenshot.jpg) -->
 
 ### Links
 
-- Solution URL: [https://github.com/memesofting/fe-mentor-projects/tree/master/blog-preview-card-main](https://your-solution-url.com)
-- Live Site URL: [https://blog-preview-card-fawn-eight.vercel.app/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/memesofting/fe-mentor-projects/tree/master/blog-preview-card-main]
+- Live Site URL: [https://blog-preview-card-fawn-eight.vercel.app/]
 
 ## My process
 
@@ -29,3 +30,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+## Author
+
+- Opeoluwa - [@memesofting](https://www.frontendmentor.io/profile/memesofting)
