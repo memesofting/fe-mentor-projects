@@ -10,28 +10,31 @@ body {
     margin: 0;
 }
 
-.card {
-    width: 30%;
+main {
+    width: 15%;
     background-color: white;
     padding: 20px;
     display: flex;
     flex-direction: column;
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
-.card img {
-    border-radius: 20px;
+main img {
+    border-radius: 15px;
+    
 }
 
-.improve {
+h1 {
+    font-size: medium;
     font-weight: 700;
     text-align: center;
-    margin: 15px;
+    margin: 5px;
 }
 
-.scan {
+p {
+    font-size: small;
     font-weight: 400;
     text-align: center;
-    margin: 15px;
+    margin: 5px;
     color: gray;
 }
