@@ -15,8 +15,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![./assets/images/screenshot2.jpeg]
-<!-- (./screenshot.jpg) -->
+![./assets/images/screenshot2.jpeg](./assets/images/screenshot2.jpeg)
 
 ### Links
 
